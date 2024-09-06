@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JyrossC
 - 👀 I’m interested in web solution and data security
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on phyton and laravel
+- 🌱 I’m currently learning React Js, FastAPI,Laravel, Django and Tailwind css
+- 💞️ I’m looking to collaborate on phyton, React, FastAPI and laravel projects
 - 📫 How to reach me, contact via my email address
          curtisjyross@gmail.com
 
