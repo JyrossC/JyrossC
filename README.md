@@ -1,12 +1,8 @@
 - 👋 Hi, I’m @JyrossC
 - 👀 I’m interested in web solution and data security
-- 🌱 I’m currently learning React Js, FastAPI,Laravel, Django and Tailwind css
-- 💞️ I’m looking to collaborate on phython, React, FastAPI and laravel projects
+- 🌱 I’m proficient in React Js, React Native, REST-API,NestJs, ExpressJs, NodeJs, ShadCN, Bootstraps, VanillaJs, base Web Technologies, PosgreSQL, MySQL, AppWrite and Tailwind css
+- 💞️ I’m looking to collaborate on FullStack , React, REST-API and AI projects
 
 - 📫 How to reach me, contact via my email address
          curtisjyross@gmail.com
 
-<!---
-JyrossC/JyrossC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
